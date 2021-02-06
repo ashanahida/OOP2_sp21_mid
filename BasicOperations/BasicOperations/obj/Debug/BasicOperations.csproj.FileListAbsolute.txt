@@ -1,0 +1,7 @@
+H:\slides\C#\mid code\BasicOperations\BasicOperations\bin\Debug\BasicOperations.exe.config
+H:\slides\C#\mid code\BasicOperations\BasicOperations\bin\Debug\BasicOperations.exe
+H:\slides\C#\mid code\BasicOperations\BasicOperations\bin\Debug\BasicOperations.pdb
+H:\slides\C#\mid code\BasicOperations\BasicOperations\obj\Debug\BasicOperations.csprojAssemblyReference.cache
+H:\slides\C#\mid code\BasicOperations\BasicOperations\obj\Debug\BasicOperations.csproj.CoreCompileInputs.cache
+H:\slides\C#\mid code\BasicOperations\BasicOperations\obj\Debug\BasicOperations.exe
+H:\slides\C#\mid code\BasicOperations\BasicOperations\obj\Debug\BasicOperations.pdb
