@@ -1,0 +1,7 @@
+H:\slides\C#\mid code\even\even\bin\Debug\even.exe.config
+H:\slides\C#\mid code\even\even\bin\Debug\even.exe
+H:\slides\C#\mid code\even\even\bin\Debug\even.pdb
+H:\slides\C#\mid code\even\even\obj\Debug\even.csprojAssemblyReference.cache
+H:\slides\C#\mid code\even\even\obj\Debug\even.csproj.CoreCompileInputs.cache
+H:\slides\C#\mid code\even\even\obj\Debug\even.exe
+H:\slides\C#\mid code\even\even\obj\Debug\even.pdb

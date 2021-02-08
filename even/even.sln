@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "even", "even\even.csproj", "{FF89E5C4-80CF-4A60-A206-D8BFDF74B222}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF89E5C4-80CF-4A60-A206-D8BFDF74B222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF89E5C4-80CF-4A60-A206-D8BFDF74B222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF89E5C4-80CF-4A60-A206-D8BFDF74B222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF89E5C4-80CF-4A60-A206-D8BFDF74B222}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C460750-96E3-47C1-8C0B-EA7CE91DA474}
+	EndGlobalSection
+EndGlobal
