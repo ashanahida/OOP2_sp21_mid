@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("EvenNumbers")]
+[assembly: AssemblyTitle("Grade")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("EvenNumbers")]
+[assembly: AssemblyProduct("Grade")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("84c6e98d-39bd-4a1a-a459-d8dc2dae4e27")]
+[assembly: Guid("66ccc431-e340-43e4-ae34-175b2e5f1446")]
 
 // Version information for an assembly consists of the following four values:
 //
