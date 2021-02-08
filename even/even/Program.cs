@@ -10,20 +10,16 @@ namespace even
     {
         static void Main(string[] args)
         {
-            int i, n, sum = 0;
+            int i;
 
             Console.Write("\n\n");
-            Console.Write("Calculate n terms of even natural number \n");
-            Console.Write("---------------------------------------------------------");
+            Console.Write("Calculate n terms of even number \n");
             Console.Write("\n\n");
-
-            Console.Write("Input number of terms : ");
-            n = Convert.ToInt32(Console.ReadLine());
+           
             Console.Write("\nThe even numbers are :");
-            for (i = 1; i <= n; i++)
+            for (i = 1; i <=10 ; i++)
             {
                 Console.Write("{0} ", 2 * i);
-                sum += 2 * i;
             }
            
         }
