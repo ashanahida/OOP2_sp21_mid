@@ -1,0 +1,7 @@
+H:\slides\C#\mid code\Lab-4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+H:\slides\C#\mid code\Lab-4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+H:\slides\C#\mid code\Lab-4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+H:\slides\C#\mid code\Lab-4\ConsoleApp1\ConsoleApp1\obj\Debug\Array.csprojAssemblyReference.cache
+H:\slides\C#\mid code\Lab-4\ConsoleApp1\ConsoleApp1\obj\Debug\Array.csproj.CoreCompileInputs.cache
+H:\slides\C#\mid code\Lab-4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+H:\slides\C#\mid code\Lab-4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
