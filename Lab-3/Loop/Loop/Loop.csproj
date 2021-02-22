@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0388895F-AF8F-4AD0-ABA4-BCD58686BB18}</ProjectGuid>
+    <ProjectGuid>{F131C819-4204-4D09-A9CC-825C3D6C2C85}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ConsoleApp1</RootNamespace>
-    <AssemblyName>ConsoleApp1</AssemblyName>
+    <RootNamespace>Loop</RootNamespace>
+    <AssemblyName>Loop</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,13 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Account.cs" />
-    <Compile Include="Fixed.cs" />
-    <Compile Include="Overdraft.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="saving.cs" />
-    <Compile Include="SpecialCurrent.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

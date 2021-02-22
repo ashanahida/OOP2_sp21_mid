@@ -8,43 +8,25 @@ namespace ConsoleApp1
 {
     abstract class Account
     {
-        private string name;
-        public string Name
+        private string Name,Id;
+        protected int Balance;
+        public Account() { }
+        public Account(string name, string id, int balance)
+
         {
-            get { return name; }
-            set { name = value; }
+            this.Name = name;
+
+            this.Id = id;
+
+            this.Balance = balance;
         }
 
-        private int? accNo;
+        abstract public void Transfer(int amount, Account acc);
 
-        public int? AccNo
-        {
-            get { return (int)accNo; }
-            set { accNo = value; }
-        }
-
-
-        protected double? Balance { get; set; }
-
-        protected int numOfTransaction { get; set; }
-        protected int MaxNumOfTransaction { get; set; }
-
-        public Account()
-        {
-            this.name = null;
-            this.Balance = null;
-            this.accNo = null;
-        }
-
-        protected Account(string name, int? accNo, object balance)
-        {
-            this.name = name;
-            this.accNo = accNo;
-            this.Balance = Balance;
-        }
-
-        abstract public void Withdraw(double amount);
+        virtual public int AccountAge { get; set; }
     }
 }
+
+
 
 
