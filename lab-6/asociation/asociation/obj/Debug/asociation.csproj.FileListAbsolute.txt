@@ -1,0 +1,7 @@
+H:\slides\C#\mid code\lab-6\asociation\asociation\bin\Debug\asociation.exe.config
+H:\slides\C#\mid code\lab-6\asociation\asociation\bin\Debug\asociation.exe
+H:\slides\C#\mid code\lab-6\asociation\asociation\bin\Debug\asociation.pdb
+H:\slides\C#\mid code\lab-6\asociation\asociation\obj\Debug\asociation.csprojAssemblyReference.cache
+H:\slides\C#\mid code\lab-6\asociation\asociation\obj\Debug\asociation.csproj.CoreCompileInputs.cache
+H:\slides\C#\mid code\lab-6\asociation\asociation\obj\Debug\asociation.exe
+H:\slides\C#\mid code\lab-6\asociation\asociation\obj\Debug\asociation.pdb
